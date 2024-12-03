@@ -11,6 +11,7 @@ conda create -n ksp python=3.10
 conda activate ksp
 pip install ipykernel
 pip install google-api-python-client
+pip install loguru # not required.
 ```
 kerbal space program environment
 1. github release 下载 krpc-x.x.x.zip (server)
